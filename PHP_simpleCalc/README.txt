@@ -1,1 +1,1 @@
-A use of simple HTML forms in PHP to create a simple calculator.
+A use of HTML & PHP to create a simple calculator.
